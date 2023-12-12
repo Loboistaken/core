@@ -26,6 +26,8 @@ The following binaries are licensed with the
 * Microsoft.DiaSymReader.Native.{x86|amd64|arm|arm64}.dll (used by .NET SDK)
 
 All other binaries and files are licensed with the
-[MIT license](https://github.com/dotnet/core/blob/main/LICENSE.TXT)
+[MIT license][def]
 
 This document is provided for informative purposes only, and is not itself a license.
+
+[def]: https://github.com/dotnet/core/blob/main/LICENSE.TXT
